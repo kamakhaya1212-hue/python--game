@@ -1,0 +1,40 @@
+UPSC & GATE 1st Year B.Tech Study Plan (4:00 AM Start)
+This plan integrates your college time (9 AM - 4 PM) with focused preparation for UPSC CSE and GATE, aiming for 7 hours of focused study on weekdays and 11 hours on weekends.
+
+📅 Daily Timetable (Mon - Fri)
+Time Slot	Duration	Activity	Focus Area
+4:00 AM – 4:30 AM	30 mins	Wake Up, Freshen up, Light Exercise/Yoga	Personal Time
+4:30 AM – 6:30 AM	2 hours	UPSC Slot 1: Current Affairs & GS (Newspaper Reading & Daily Current Affairs Notes)	UPSC Foundation
+6:30 AM – 8:00 AM	1.5 hours	GATE Slot 1: Engineering Mathematics or General Aptitude/CSAT Practice	GATE/CSAT Overlap
+8:00 AM – 9:00 AM	1 hour	Breakfast, Commute to College	Personal/Travel
+9:00 AM – 4:00 PM	7 hours	B.Tech College Hours (Treat class notes as primary GATE material)	College/GATE Core
+4:00 PM – 5:00 PM	1 hour	Commute Home, Break, Tea	Relaxation
+5:00 PM – 7:30 PM	2.5 hours	UPSC Slot 2: Static GS Subject (Start with NCERTs for History/Geography/Polity)	UPSC Static Foundation
+7:30 PM – 8:30 PM	1 hour	Dinner & Family Time	Personal Time
+8:30 PM – 9:30 PM	1 hour	GATE/B.Tech Revision (Revise college notes and solve 5-10 related GATE PYQs)	GATE Integration
+9:30 PM – 10:00 PM	30 mins	Daily Plan Review, Relax, Sleep	Personal Time
+
+Export to Sheets
+
+🗓️ Weekend Timetable (Sat & Sun)
+Time Slot	Duration	Activity	Focus Area
+4:00 AM – 7:00 AM	3 hours	UPSC Slot 1: Optional Subject Exploration or Core GS Deep Dive	UPSC Mains Prep
+7:00 AM – 8:00 AM	1 hour	Breakfast & Break	Personal Time
+8:00 AM – 11:00 AM	3 hours	GATE Slot 1: Technical Subject Deep Dive (Study a core GATE topic using standard books)	GATE Syllabus Coverage
+11:00 AM – 1:00 PM	2 hours	UPSC Slot 2: Answer Writing/Essay Practice or Weekly Current Affairs Revision	UPSC Practice
+1:00 PM – 2:00 PM	1 hour	Lunch & Break	Personal Time
+2:00 PM – 5:00 PM	3 hours	Assessment: Full-length CSAT/GATE General Aptitude Test or Full Weekly Revision	Integration/Assessment
+5:00 PM onwards	-	Relaxation, Hobbies, Socializing	Recharge
+
+Export to Sheets
+
+📚 Phase 1: First Year Syllabus & Strategy
+The first year is dedicated to Foundation and Integration.
+
+Integrated Syllabus Focus
+UPSC CSE Syllabus (Focus)	GATE Syllabus (Focus)	Key Resources (1st Year)
+General Studies (GS): Complete all NCERTs (Class 6-12) for History, Geography, and Indian Polity.	Engineering Mathematics: Master every topic as it's taught in college (Calculus, Linear Algebra, Probability).	UPSC: NCERTs (6-12), M. Laxmikanth, The Hindu/Indian Express.
+Current Affairs: Establish a daily habit of reading and note-making.	General Aptitude (GA): Practice Quantitative and Logical Reasoning questions (Overlaps with UPSC CSAT).	GATE: Standard B.Tech textbooks, GATE PYQ books.
+Optional Subject: Identify your optional subject by year-end (consider B.Tech stream or an overlapping subject).	B.Tech Core Subjects: Pay maximum attention to your college subjects. Class notes are your GATE notes.	General: NPTEL videos.
+
+E 
